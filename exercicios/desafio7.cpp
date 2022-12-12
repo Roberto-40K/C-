@@ -3,7 +3,8 @@
 using namespace std;
 
 /*
-Crie um Algoritmo em C++, em que o usuário informa a dimensão de uma matriz, e os elementos (ambas com a mesma dimensão) e o Algoritmo mostra a soma entres estas duas matrizes.
+Crie um Algoritmo em C++, em que o usuário informa a dimensão de uma matriz, e os elementos (ambas com a mesma dimensão) 
+e o Algoritmo mostra a soma entres estas duas matrizes.
 */
 
 int main() {
