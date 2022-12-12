@@ -2,7 +2,8 @@
 
 using namespace std;
 
-/*Crie um Algoritmo em C++, que calcula a potência B^E, em que o usuário informa um número real B e um número natural E. Nesse algoritmo, sempre que é informado o resultado da potência, é perguntado ao usuário, se este deseja calcular outra potência.*/
+/*Crie um Algoritmo em C++, que calcula a potência B^E, em que o usuário informa um número real B e um número natural E. Nesse algoritmo,
+sempre que é informado o resultado da potência, é perguntado ao usuário, se este deseja calcular outra potência.*/
 
 int main(){
 
