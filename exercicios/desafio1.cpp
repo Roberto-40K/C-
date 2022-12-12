@@ -4,7 +4,7 @@
 using namespace std;
 
 //Dada a função f(x) = x² - 3x + 5.
-/*Crie um Algoritmo em C++, que tenha uma função que calcule o valor de f(a), em que a é um número real informado pelo usuário.*/
+//Crie um Algoritmo em C++, que tenha uma função que calcule o valor de f(a), em que a é um número real informado pelo usuário.
 
 float funcao(float x) {
 
