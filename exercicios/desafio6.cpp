@@ -2,7 +2,8 @@
 
 using namespace std;
 
-// Crie um algoritmo em C++, em que o usuário informa os gastos com alimentação de 5 famílias, calcule a média de gastos de cada família, e diz se seu gasto é abaixo da média, acima da média ou na média.
+// Crie um algoritmo em C++, em que o usuário informa os gastos com alimentação de 5 famílias, calcule a média de gastos de cada família, 
+//e diz se seu gasto é abaixo da média, acima da média ou na média.
 
 int main() {
   
