@@ -2,7 +2,8 @@
 
 using namespace std;
 
-/*Crie um Algoritmo em C++, em que o usuário informa as notas de três provas de um determinado aluno e também a média de nota da turma toda, O Algoritmo deve calcular a média deste aluno e informar se sua nota é acima da média, abaixo da média ou está na média.*/
+/*Crie um Algoritmo em C++, em que o usuário informa as notas de três provas de um determinado aluno e também a média de nota da turma toda, 
+O Algoritmo deve calcular a média deste aluno e informar se sua nota é acima da média, abaixo da média ou está na média.*/
 
 int main(){
 
